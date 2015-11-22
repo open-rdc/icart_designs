@@ -1,3 +1,3 @@
-# orne_icart_designs
+# icart_designs
 
-The repository provides design data of the i-Cart mini under Project ORNE.
+The repository provides design data of the i-Cart.
